@@ -21,7 +21,6 @@
  * @author     Your Name <email@example.com>
  */
 class Plugin_Name_Activator {
-
 	/**
 	 * Short Description. (use period)
 	 *
@@ -30,7 +29,5 @@ class Plugin_Name_Activator {
 	 * @since    1.0.0
 	 */
 	public static function activate() {
-
 	}
-
 }
