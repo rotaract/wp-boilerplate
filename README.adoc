@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2025 Benno Bielmeier
+//
+// SPDX-License-Identifier: CC0-1.0
+
 ////
 .✅ Checklist
 * [ ] Update `:slug:` and `:repo_path:` in `README.adoc` and `CHANGELOG.adoc`
@@ -10,7 +14,6 @@
 * [ ] (Optional) Change license details in `LICENSE` and Legal Notices section
 ////
 = WordPress Plugin Boilerplate
-Rotaract Germany
 
 ifdef::env-github[]
 :tip-caption: 💡
@@ -22,7 +25,7 @@ endif::[]
 
 :badge_url: https://img.shields.io
 :custom_badge: {badge_url}/badge
-:slug: wp-boilerplate
+:slug: plugin-name
 :repo_path: rotaract/{slug}
 
 :year: 2025

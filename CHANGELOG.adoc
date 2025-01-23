@@ -1,6 +1,10 @@
+// SPDX-FileCopyrightText: 2025 Benno Bielmeier
+//
+// SPDX-License-Identifier: CC0-1.0
+
 = Changelog
 
-:repo: https://github.com/rotaract/wp-boilerplate
+:repo: https://github.com/rotaract/wp-roundhousekick
 :compare: {repo}/compare
 
 All notable changes to this project will be documented in this file.
