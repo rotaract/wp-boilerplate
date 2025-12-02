@@ -1,5 +1,9 @@
 <?php
 
+// SPDX-FileCopyrightText: 2025 Niklas Zbick <nicko.zbicko@gmail.com>
+//
+// SPDX-License-Identifier: EUPL-1.2
+
 /**
  * Provide a admin area view for the plugin
  *
