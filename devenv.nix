@@ -26,5 +26,5 @@
     };
   };
 
-  pre-commit.hooks.reuse.enable = true;
+  git-hooks.hooks.reuse.enable = true;
 }
